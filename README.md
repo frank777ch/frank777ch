@@ -19,8 +19,8 @@ Currently, I'm leveling up my stack and focusing entirely on **C#, .NET, and Ang
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Frank's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frank777ch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Frank's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank777ch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
