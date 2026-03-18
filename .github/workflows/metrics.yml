@@ -16,12 +16,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          
           user: frank777ch
           
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: America/Lima
+          config_display: large
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
