@@ -19,7 +19,7 @@ Currently, I'm leveling up my stack and focusing entirely on **C#, .NET, and Ang
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" width="100%" style="max-width: 1000px;" alt="Métricas Avanzadas de Frank">
+  <img src="github-metrics.svg" alt="Métricas Avanzadas de Frank">
 </div>
 
 <div align="center">
