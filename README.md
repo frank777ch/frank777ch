@@ -24,7 +24,7 @@ Currently, I'm leveling up my stack and focusing entirely on **C#, .NET, and Ang
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=frank777ch&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
