@@ -34,5 +34,5 @@ Currently, I'm leveling up my stack and focusing entirely on **C#, .NET, and Ang
 ---
 
 ### 📫 Let's connect
-- 📧 Email: frank.condor@unmsm.edu.pe
+- 📧 Email: fcondorh514@gmail.com
 - 💼 LinkedIn: [Frank Kevin Condor Huarhuachi](https://www.linkedin.com/in/frank-kevin-condor-huarhuachi/)
